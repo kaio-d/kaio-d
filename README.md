@@ -1,4 +1,4 @@
-## Olá Seres! Bem vindo ao meu perfil
+## Olá Seres! Bem vindo ao meu perfil 🌟
 
 - 🌱 No momento estudo JavaScript
 - 🤔 Dicas para desenvolvimento front-end

@@ -4,6 +4,7 @@
 - 🤔 Dicas para desenvolvimento front-end
 - 💬 Estudante de programação, buscando melhorar meu portifólio
 - 📫 email: dantaskaio01@gmail.com 
+- 📱 +55 (11) 99194-9992
 - 😄 Ele/Dele
 
 <div align="center">

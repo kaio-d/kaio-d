@@ -1,14 +1,12 @@
-## Olá Seres! Bem vindo ao meu perfil 🌟
+## Olá, Seja Bem Vindo ao meu Perfil 🌟
 
-- 🌱 No momento estudo JavaScript
-- 🤔 Dicas para desenvolvimento front-end
-- 💬 Estudante de programação, buscando melhorar meu portifólio
+- 💬 Estudante de programação Front End.
 - 📫 email: dantaskaio01@gmail.com 
 - 📱 +55 (11) 99194-9992
 - 😄 Ele/Dele
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/kaio-d">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=kaio-d&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-d&layout=compact&langs_count=7&theme=synthwave"/>
 </div>

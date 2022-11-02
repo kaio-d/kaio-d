@@ -1,6 +1,6 @@
 ## Olá, Seja Bem Vindo ao meu Perfil 🌟
 
-- 💬 Estudante de programação Front End.
+- 💬 Estudante de programação visando a formação Full Stack.
 - 📫 email: dantaskaio01@gmail.com 
 - 📱 +55 (11) 99194-9992
 - 😄 Ele/Dele

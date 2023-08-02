@@ -27,5 +27,4 @@
   <a href="https://www.instagram.com/kaio.mancini/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a href="https://www.twitch.tv/fried333"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </div>
-    
- ![Snake animation](https://github.com/kaio-d/kaio-d/blob/output/github-contribution-grid-snake.svg)
+     

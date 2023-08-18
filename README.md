@@ -1,30 +1,33 @@
-## Olá, Seja Bem Vindo ao meu Perfil 🌟
+# Kaio Dantas Mancini
 
-- 💬 Estudante de programação visando a formação Full Stack.
-- 📫 email: dantaskaio01@gmail.com 
-- 📱 +55 (11) 99194-9992
-- 😄 Ele/Dele
+# Sobre
+<p> Estudante de programação visando a formação Full Stack, atualmente tenho 22 anos e meu primeiro contato com a tecnologia se deu através de infraestrutura. Utilizo meu tempo livre para jogar e ver animes, amo café e sou extremamente calmo.<p>
+<br>
 
 <div align="center">
-  <a href="https://github.com/kaio-d">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=kaio-d&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide=stars"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-d&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
+<br><br>
 
-## Tecnologias  que uso no meu Cotidiano
+# Habilidades
 
-<div style="display: inline_block"><br>
-  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt"javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt"PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</div>
-                               
-##
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP)
+![SQL](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=sql)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 
-<div>
-  <a href="https://www.linkedin.com/in/kaio-dantas-236138249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a href="https://www.instagram.com/kaio.mancini/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <a href="https://www.twitch.tv/fried333"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-</div>
-     
+# Próximas Tecnologias
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java)
+
+# Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/kaio-mancini/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/kaio.mancini/)
+![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+
+
+

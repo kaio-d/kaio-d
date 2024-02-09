@@ -5,8 +5,8 @@
 <br>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=kaio-d&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide=stars"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-d&layout=compact&langs_count=7&theme=synthwave"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kaio-d&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide=stars"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-d&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <br><br>
 

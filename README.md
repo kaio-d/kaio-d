@@ -10,18 +10,6 @@
 - 📱 Experiência com desenvolvimento **web, mobile e UI/UX no Figma**  
 - 🚀 Sempre buscando evoluir e aprender novas tecnologias  
 
----
-
-<div align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kaio-d&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide=stars"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-d&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaio-d&theme=synthwave&hide_border=false&date_format=M%20j%5B%2C%20Y%231%5D" alt="GitHub Streak" />
-</div>
 
 ---
 

@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kaio-d&theme=synthwave&border_radius=5" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaio-d&theme=synthwave&hide_border=false&date_format=M%20j%5B%2C%20Y%231%5D" alt="GitHub Streak" />
 </div>
 
 ---
